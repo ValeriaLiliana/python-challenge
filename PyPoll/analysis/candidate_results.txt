@@ -1,0 +1,6 @@
+Candidate Results:
+                         Counts  Percentage (%)
+Candidate                                      
+Diana DeGette            272892       73.812248
+Charles Casper Stockham   85213       23.048543
+Raymon Anthony Doane      11606        3.139209
